@@ -1,0 +1,4 @@
+__pycache__
+*.pyc
+venv/
+*.csv # Optional: Exclude Indian_earthquake.csv if large
